@@ -1,5 +1,4 @@
 # Bridgewell
-# BridgeWell
 
 BridgeWell is a mental health employer support tool that combines **PostgreSQL**, **Neo4j**, **FastAPI**, and **Streamlit** to analyze country-level mental health data and recommend wellbeing programs for employers.
 
